@@ -18,3 +18,9 @@ directory into your agent's skills folder, then ask the agent to use it
 
 With a plain chatbot, paste the body of the skill's `SKILL.md` into the chat
 (or into a custom/system prompt), followed by what you want it to do.
+
+## Dalek fleet export
+
+`autonomous-crew-ops/` — exported from the Dalek fleet (Hermes Agent) on 2026-11-15:
+lessons from a measured autonomous kanban-crew run (spec→approval→build→validate→merge).
+Sync: `python D:/fleet-hub/skill_export.py <skill_name>`.
